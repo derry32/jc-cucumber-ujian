@@ -1,2 +1,4 @@
 Youtube
-https://youtu.be/dX2OOxW3f6A
+https://youtu.be/ryJM1FXa7zM
+Spreadsheet
+https://docs.google.com/spreadsheets/d/1Gjb78VmnL_Qc7TxXqi7kYK53TTkEq4ksRqyBPz5SJB8/edit?usp=sharing
